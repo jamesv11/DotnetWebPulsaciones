@@ -1,0 +1,9 @@
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\obj\Debug\netstandard2.0\Entidad.csprojAssemblyReference.cache
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Entidad\obj\Debug\netstandard2.0\Entidad.pdb

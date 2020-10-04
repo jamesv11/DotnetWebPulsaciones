@@ -1,0 +1,14 @@
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Logica.dll
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Logica.pdb
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Datos.dll
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Datos.pdb
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.dll
+c:\Users\JamesV\OneDrive\Escritorio\5 semestre\ProgramacionWeb\PulsacionesDotnet\Logica\obj\Debug\netstandard2.0\Logica.pdb
